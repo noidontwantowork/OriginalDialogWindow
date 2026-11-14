@@ -6,6 +6,10 @@
 - 作者：Noidontwantowork
 - 主界面命令：`/odw`
 
+## 下载
+
+编译好的插件包在 [Releases](https://github.com/noidontwantowork/OriginalDialogWindow/releases/latest)：`OriginalDialogWindow.zip`，解压到 Dalamud 的插件目录后即可加载。
+
 ## 用法
 
 主界面里有两个控件：
